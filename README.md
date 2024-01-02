@@ -1,6 +1,8 @@
 
 
-- 🌟 Hello World, I'm Sophia! 🚀 Embarking on an exhilarating journey from Project Management to the dynamic world of Software Engineering.
+- 🌟 Hello World! I'm Sophia!
+
+- 🌈 Transitioning from Project Management to the tech-savvy realm of Software Engineering.
 
 - 🌐 Java is my go-to programming language, but I'm also keenly exploring the cloud computing landscape.
 
