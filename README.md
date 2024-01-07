@@ -12,8 +12,6 @@
 
 - 🌈 Transitioning career path to the tech-savvy realm of Software Engineering.
 
-- 🌐 Java is my go-to programming language, but I'm also keenly exploring the cloud computing landscape.
-
 - 🎓 Currently honing my skills in Software Engineering at the University of California, Irvine.
 
 - 🌱 Actively seeking a 2024 internship in software engineering where I can contribute with enthusiasm and a fresh perspective!
@@ -23,7 +21,7 @@
 
 - 🚀 Leveling up my coding skills in Java, Python, and JavaScript!
 - 💪Cracking LeetCode problems using my ninja algorithm and data structure skills!
-- 💻 Expanding my horizons in Cloud computing and Networking – sky's the limit!
+- 🌐 Expanding my horizons in Cloud computing and Networking – sky's the limit!
 
 
 ## Technology Stack
