@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🌈 Transitioning career path to the tech-savvy realm of Software Engineering.
+- 🌈 Making a cool switch to the world of Software Engineering.
 
 - 🎓 Currently honing my skills in Software Engineering at the University of California, Irvine.
 
@@ -27,7 +27,7 @@
 ## Technology Stack
 
 #### - Programming Languages
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,20 +36,20 @@
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
 #### - Frameworks
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   
 #### - Tools
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 ## Certification
-![PMP](https://img.shields.io/badge/PMP(Project_Professional_Management)-DB7093?style=for-the-badge&logo=coursera&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP(Project_Management_Professional)-DB7093?style=for-the-badge&logo=coursera&logoColor=white)
 <br/>
 ![AWS](https://img.shields.io/badge/AWS_SAA(Solution_Architect_Associate)-D8BFD8?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br/>
