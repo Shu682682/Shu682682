@@ -19,7 +19,7 @@
 
 ## A Journey of Learning and Innovation
 
-- 🚀 Leveling up my coding skills in Java, Python, JavaScript and Go!
+- 🚀 Leveling up my coding skills in C++, Java, Python!
   
 - 💪Cracking LeetCode problems using my ninja algorithm and data structure skills!
   
@@ -60,7 +60,7 @@
   <img align="center" alt="Rafa-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Jira" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
-  <img align="center" alt="Rafa-Andorid Studio" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg">
+  <img align="center" alt="Rafa-Andorid Studio" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg">
   <img align="center" alt="Rafa-Kuvernetes" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg">
 
 
