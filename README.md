@@ -10,11 +10,11 @@
 
 ## About Me
 
-- 🌈 Making a cool switch to the world of Software Engineering.
+- 🌈  Focusing on backend, mobile app development, and cloud innovations to build scalable solutions! 
 
-- 🎓 Currently honing my skills in Software Engineering at the University of California, Irvine.
+- 🎓  M.S. in Software Engineering, UC Irvine (Graduated).
 
-- 🌱 Actively seeking a 2024 internship in software engineering where I can contribute with enthusiasm and a fresh perspective!
+- 🌱 Seeking a Software Engineer role where I can contribute with enthusiasm and a fresh perspective!
   
 
 ## A Journey of Learning and Innovation
