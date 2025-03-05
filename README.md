@@ -20,9 +20,7 @@
 ## A Journey of Learning and Innovation
 
 - 🚀 Leveling up my coding skills in Go, Java, Python!
-  
-- 💪Cracking LeetCode problems using my ninja algorithm and data structure skills!
-  
+    
 - 🌐 Expanding my horizons in Cloud computing and GenAI – sky's the limit!
 
 
@@ -31,7 +29,7 @@
 #### - Programming Languages
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="Rafa-C++" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rafa-C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
