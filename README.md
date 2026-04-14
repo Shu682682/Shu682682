@@ -10,18 +10,13 @@
 
 ## About Me
 
-- 🌈  Focusing on backend, mobile app development, and cloud innovations to build scalable solutions! 
-
-- 🎓  M.S. in Software Engineering, UC Irvine (Graduated).
-
-- 🌱 Seeking a Software Engineer role where I can contribute with enthusiasm and a fresh perspective!
-  
+- 💻 Software engineer with a background in backend, mobile, and cloud development, currently expanding into AI and building practical AI applications.
+- 🌱 Actively learning AI, LLM applications, and intelligent systems while seeking opportunities to grow as a software engineer.
 
 ## A Journey of Learning and Innovation
-
-- 🚀 Leveling up my coding skills in Go, Java, Python!
-    
-- 🌐 Expanding my horizons in Cloud computing and GenAI – sky's the limit!
+- 🚀 Building projects with Python, Java, and Go to strengthen both software engineering and AI development skills.
+- 🤖 Exploring GenAI, LLM applications, retrieval systems, and AI-powered product ideas.
+- ☁️ Interested in combining AI with backend and cloud technologies to build scalable, useful products.
 
 
 ## Technology Stack
